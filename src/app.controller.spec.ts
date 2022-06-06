@@ -1,5 +1,5 @@
 /*
-app.controller.ts : 기본 컨트롤러, A basic controller with a single route.
+app.controller.spec.ts : 기본 컨트롤러 유닛 테스트 파일, The unit tests for the controller.
 */
 import { Test, TestingModule } from '@nestjs/testing';
 import { AppController } from './app.controller';
